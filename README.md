@@ -1,2 +1,3 @@
 # A-Dating-Adventure
-Made for the assessment day!
+Using HTML (and CSS) only a text-based choice game was made for the assessment day.
+
