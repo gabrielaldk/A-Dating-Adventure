@@ -38,5 +38,8 @@ background: linear-gradient(90deg, rgb(241, 70, 110) 0%, rgb(233, 124, 131) 0%, 
     user-select: none;
     -webkit-user-select: none;
     touch-action: manipulation;
+  }
 
+  a {
+    text-decoration: none;
   }
